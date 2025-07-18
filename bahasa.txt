@@ -7,4 +7,4 @@
 frameworks
 - bootstrap
 - nodejs
-- angular
+- react
