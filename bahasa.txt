@@ -7,3 +7,5 @@
 frameworks
 - bootstrap
 - react
+- vue
+- next
